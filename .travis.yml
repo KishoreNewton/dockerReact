@@ -1,4 +1,6 @@
-language: javascript
+sudo: required
+
+language: node.js
 
 services:
   - docker
